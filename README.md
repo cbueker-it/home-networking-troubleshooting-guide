@@ -4,6 +4,8 @@ Structured Debian home-network troubleshooting using routing, DNS, ping, and HTT
 
 In IT, formal and structured troubleshooting guides and methods help reduce guesswork and make the technical support that the IT team provides more efficient. Instead of randomly making changes here or there, each test should provide information that helps narrow the problem, isolate the issue, and determine the next course of action.
 
+The scenario for this guide is a workstation or home network that is unable to access the Internet, and the goal is to identify where the connectivity failure is occurring.
+
 This project uses my home network to demonstrate that process. The troubleshooting guide I created begins with the local workstation and moves outward from there, starting with the wireless interface, then IP configuration, the default gateway, external connectivity, DNS resolution, and finally the application layer.
 
 Having clear and accessible troubleshooting guides available to technicians helps create standardization and reduce friction during support work. When procedures are easy to follow, issues can be isolated much more quickly, handoffs become smoother, downtime is reduced, and IT can better support the efficiency and profitability of the business.
@@ -64,7 +66,9 @@ Having clear and accessible troubleshooting guides available to technicians help
 - Knowing the network topology and escalation boundaries helps avoid unnecessary changes, reduces friction, and makes it easier to involve the ISP when needed.
 - Clear documentation improves the consistency of IT work, supports smoother handoffs, and helps reduce downtime and troubleshooting time.
 
-This guide provides me with a structured and repeatable way to troubleshoot my home network instead of relying on trying one thing or another. It improves efficiency by making each troubleshooting step a formal, logical action that is easy to follow and connected to the next course of action.
+**Summary**
+
+This guide provides me with a structured and repeatable way to troubleshoot an Internet connectivity issue on my home network instead of relying on trying one thing or another. It improves efficiency by making each troubleshooting step a formal, logical action that is easy to follow and connected to the next course of action.
 
 Using this type of process helps me maintain my home network in a more organized and businesslike manner. It allows me to validate connectivity at different layers, identify breaks or issues more quickly, avoid unnecessary changes, and recognize when the problem is likely with the ISP.
 
