@@ -4,7 +4,7 @@ Structured Debian home-network troubleshooting using routing, DNS, ping, and HTT
 
 In IT, formal and structured troubleshooting guides and methods help reduce guesswork and make the technical support that the IT team provides more efficient. Instead of randomly making changes here or there, each test should provide information that helps narrow the problem, isolate the issue, and determine the next course of action.
 
-This project uses a simple home network to demonstrate that process. The troubleshooting guide I created begins with the local workstation and moves outward from there, starting with the wireless interface, then IP configuration, the default gateway, external connectivity, DNS resolution, and finally the application layer.
+This project uses my home network to demonstrate that process. The troubleshooting guide I created begins with the local workstation and moves outward from there, starting with the wireless interface, then IP configuration, the default gateway, external connectivity, DNS resolution, and finally the application layer.
 
 Having clear and accessible troubleshooting guides available to technicians helps create standardization and reduce friction during support work. When procedures are easy to follow, issues can be isolated much more quickly, handoffs become smoother, downtime is reduced, and IT can better support the efficiency and profitability of the business.
 
