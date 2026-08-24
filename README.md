@@ -61,8 +61,7 @@ Having clear and accessible troubleshooting guides available to technicians help
 
 - A formal and structured troubleshooting process in a particular business environment reduces guesswork by testing one layer at a time and using each result to inform the next action.
 - A clear decision tree helps isolate issues more quickly and makes troubleshooting easier to follow, repeat, and hand off to another technician.
-- Validating the default gateway, external connectivity, DNS, and application access separately helps identify where the failure is
-.
+- Validating the default gateway, external connectivity, DNS, and application access separately helps identify where the failure is occurring.
 - Knowing the network topology and escalation boundaries helps avoid unnecessary changes, reduces friction, and makes it easier to involve the ISP when needed.
 - Clear documentation improves the consistency of IT work, supports smoother handoffs, and helps reduce downtime and troubleshooting time.
 
